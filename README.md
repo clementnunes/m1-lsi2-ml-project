@@ -45,7 +45,7 @@ The project is written in Python and uses some libraries for Machine Learning su
 - Seaborn for data visualization
 - Scikit-Learn for ML
 
-Note: The data set on the repository is an extract of the original one.
+Note: The data set on the repository is an extract of the original one. You can get a bigger one [here](https://gitlab.com/veekz/m1-lsi2-ml-project).
 
 First step is loading and cleaning data (remove non-consistent tweets)
 
